@@ -1,14 +1,14 @@
-body {
+body{
     font-family: "Rubik Mono One", monospace;
     color: #fff;
-    background-color: #12c0dd;
+    background-color: #dd5212;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
  }
  .wave{
-    -webkit-box-reflect: below 0 linear-gradient(transparent, rgba(255, 255, 255, 0.3));
+    -webkit-box-reflect: below 0 linear-gradient(transparent, rgba(255, 255, 255, 0.336));
  }
  .wave span{
     display: inline-block;
