@@ -16,7 +16,7 @@ body{
     animation: wave 1s infinite calc(.1s*var(--i));
  }
  @keyframes wave{
-    0%, 40%, 100%{
+    0%, 30%, 60%, 100%{
        transform: translateY(0);
     }
     20%{
