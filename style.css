@@ -20,6 +20,6 @@ body{
        transform: translateY(0);
     }
     20%{
-       transform: translateY(-20px);
+       transform: translateY(-25px);
     }
  }
